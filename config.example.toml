@@ -1,5 +1,5 @@
 # General options (required)
-id = "d5zsqiNgBGU" # YouTube video ID to get the comments for
+id = "xXvSiWCCvhQ" # YouTube video ID to get the comments for
 savestateFile = "./savestate.json" # Location where the savestate is saved (you probably don't want to change this)
 maxMultiVoters = 1 # The maximum number of votes per person (use 0 for unlimited)
 deadlineHours = 48 # Only count comments up to this time in hours after the video is uploaded (use 0 for unlimited)
