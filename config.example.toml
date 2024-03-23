@@ -1,12 +1,12 @@
 # General options (required)
-id = "d5zsqiNgBGU" # YouTube video ID to get the comments for
+id = "xXvSiWCCvhQ" # YouTube video ID to get the comments for
 savestateFile = "./savestate.json" # Location where the savestate is saved (you probably don't want to change this)
 maxMultiVoters = 1 # The maximum number of votes per person (use 0 for unlimited)
-deadlineHours = 48 # Only count comments up to this time in hours after the video is uploaded (use 0 for unlimited)
+deadlineHours = 57 # Only count comments up to this time in hours after the video is uploaded (use 0 for unlimited)
 
 # Authentication (required)
 # Set to true to use OAuth2, false to use API key. Remember to set this back to false if you're counting videos not uploaded by you.
-isAuthenticated = false
+isAuthenticated = true
 # when isAuthenticated = false
 key = "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" # Replace with your actual api key, (see the README) and don't share it with anyone
 # when isAuthenticated = true
